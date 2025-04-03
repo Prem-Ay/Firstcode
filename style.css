@@ -1,13 +1,27 @@
 /* //external css */
 
-p2{
+/* p2{
      font-size: 50px;
      color: brown;
      
 
+} */
+ 
+#para2
+{
+     color: red;
 }
+
+.para1{
+     color: green;
+     /* border-width: 8px;
+     border-style: double;
+     border-color: black; */
+
+     border: 5px solid red;  /*thikness,style,color -this sequence will be follow */
      
-    
-
-
+     /*Box MOdel*/
+     padding: 10px;
+     margin: 2px;
 }
+    
