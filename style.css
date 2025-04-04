@@ -6,10 +6,15 @@
      
 
 } */
+
+#main
+  {
+     background-color:rgb(rgba(185, 32, 32, 0.788), green, blue);
+  }
  
 #para2
 {
-     color: red;
+     /* color: red; */
 }
 
 .para1{
@@ -18,10 +23,35 @@
      border-style: double;
      border-color: black; */
 
-     border: 5px solid red;  /*thikness,style,color -this sequence will be follow */
+     /* border: 5px solid red;  thikness,style,color -this sequence will be follow */
      
      /*Box MOdel*/
-     padding: 10px;
+     /* padding: 10px;
      margin: 2px;
+     background-color: aquamarine;
+     text-align: center;
+     border-radius: 20px; */
 }
+
+#main2
+  {
+     width: 300px;
+     height: 300px;
+     border: 1px solid black;
+     border-radius: 50%;
+     
+     /* background-color: beige;
+     border-radius: 20px;
+     border-width: 10px;
+     border-color: black;
+     text-align: center; */
+
+
+
+
+  }
+  .image
+   {
+     border-radius: 50%;
+   }
     
